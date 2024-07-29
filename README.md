@@ -39,4 +39,5 @@ The Contact Management System is a simple graphical user interface (GUI) applica
 This project is open-source and can be modified or redistributed under the terms of the MIT License.
 
 ## Author
-[Your Name] (Replace with your name or the name of the original author)
+
+ - [Gautham Krishna R](https://github.com/Gauthammq)
